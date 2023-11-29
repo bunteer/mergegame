@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac5a0a37a85467a4c988d72c248142d8, type: 3}
+  m_Name: BallData
+  m_EditorClassIdentifier: 
+  ballDatas:
+  - prefab: {fileID: 5339611012974732823, guid: 2af02917e0173bb468195ed7a5ad2fb4, type: 3}
+    score: 1
+  - prefab: {fileID: 718401926584573449, guid: c4752dba5675ef446845d85f92bc7f6c, type: 3}
+    score: 3
+  - prefab: {fileID: 4733989765970327309, guid: d6a46f782fb1ccf4a86897cdda68038a, type: 3}
+    score: 6
+  - prefab: {fileID: 506696362955721180, guid: 7416e9d210ae31847b83f3ec5f297e03, type: 3}
+    score: 10
+  - prefab: {fileID: 5735400016875393323, guid: dd9c44b02858b2d47af3b4b44a0fe846, type: 3}
+    score: 15
+  - prefab: {fileID: 2040855430257514078, guid: 9f0edf3bb6319ee44af46e38505a5ed7, type: 3}
+    score: 21
+  - prefab: {fileID: 2644340202192716041, guid: f7aceeb102d3a2d429f3c1ba8cd65567, type: 3}
+    score: 28
+  - prefab: {fileID: 8755560808899801174, guid: 235db6360b10f6543b7dd97c31a4600b, type: 3}
+    score: 36
+  - prefab: {fileID: 150620083405086453, guid: a5324a6886b6cf24ca0fc280d4dde580, type: 3}
+    score: 45
+  - prefab: {fileID: 3428018931966592811, guid: 6e0bec1cd0224ec48b47ea1111914728, type: 3}
+    score: 55
